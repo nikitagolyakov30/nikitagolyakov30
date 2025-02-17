@@ -66,9 +66,9 @@
 * [Теория тестирования](https://github.com/golyakovn3/theory)
 * [Техники тест-дизайна](https://github.com/golyakovn3/design)
 * [Тестовая документация](https://github.com/golyakovn3/docs)
-* [Работа с базами данных](https://github.com/golyakovn3/database)
-* [Тестирование API](https://github.com/golyakovn3/api)
 * [Тестирование веб-приложений](https://github.com/golyakovn3/web)
+* [Тестирование API](https://github.com/golyakovn3/api)
+* [Работа с базами данных](https://github.com/golyakovn3/database)
 * [Тестирование мобильных приложений](https://github.com/golyakovn3/mobile)
 * [Работа с git и bash](https://github.com/golyakovn3/git_bash)
 
