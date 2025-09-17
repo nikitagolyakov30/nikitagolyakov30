@@ -18,8 +18,8 @@
 
 <div>
   <!-- <a href="ссылка"><img src="https://files.svgcdn.io/skill-icons/linkedin.svg" width="40px" height="40px" title="linkedin" alt="linkedin"></a>&nbsp -->
-  <a href="https://t.me/golyakovn3"><img src="https://files.svgcdn.io/logos/telegram.svg" width="40px" height="40px" title="telegram" alt="telegram"></a>&nbsp
-  <a href="mailto:golyakovn3@gmail.com"><img src="https://files.svgcdn.io/logos/google-gmail.svg" width="40px" height="40px" title="gmail" alt="gmail"></a>&nbsp
+  <a href="https://t.me/nikitagolyakov30"><img src="https://files.svgcdn.io/logos/telegram.svg" width="40px" height="40px" title="telegram" alt="telegram"></a>&nbsp
+  <a href="mailto:nikitagolyakov30@gmail.com"><img src="https://files.svgcdn.io/logos/google-gmail.svg" width="40px" height="40px" title="gmail" alt="gmail"></a>&nbsp
 </div>
 
 ## ⚙️Инструменты, которыми я владею
