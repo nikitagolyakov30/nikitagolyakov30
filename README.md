@@ -12,7 +12,7 @@
 
 ### 📄Резюме
 
-Ознакомиться с моим резюме можно [здесь](https://drive.google.com/file/d/1oETOEJWn77l39vQmc9ga00dsb3BV8P5G/view?usp=sharing)
+Ознакомиться с моим резюме можно [здесь](https://drive.google.com/file/d/1jcJfBRchUFGHlIJx-84NXeGSIoQbtH7P/view?usp=sharing)
 
 ### 🔗Контакты
 
